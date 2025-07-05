@@ -1,2 +1,2 @@
 # testrepo
-Coursera - Getting started with git and github
+Coursera - Getting Started with Git and Github
